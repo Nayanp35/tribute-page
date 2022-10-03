@@ -1,0 +1,17 @@
+p {
+    color: red;
+}
+
+body {
+    background: #eeeeee;
+}
+
+figure {
+    background-color: white;
+    text-align: center;
+}
+
+section {
+    max-height: 600px;
+    margin: auto;
+}
